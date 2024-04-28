@@ -31,7 +31,7 @@ Each move basically changes the value of the spot to the player's symbol. You ca
 
 ### Minimax AI
 
-The minimax algorithm is used to find the move if it is the computer's turn. The algorithm is explained in the [wikipedia](https://en.wikipedia.org/wiki/Minimax) article. I have also implemented a heuristic that prioritizes moves that will result in a win.
+The minimax algorithm is used to find the move if it is the computer's turn. The algorithm is explained in the [Wikipedia](https://en.wikipedia.org/wiki/Minimax) article. I have also implemented a heuristic that prioritizes moves that will result in a win.
 
 ### IO Functions
 
