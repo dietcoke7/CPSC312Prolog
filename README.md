@@ -35,7 +35,7 @@ The minimax algorithm is used to find the move if it is the computer's turn. The
 
 ### IO Functions
 
-The rest facts and rules are used to implement the IO functionalities. The program uses the terminal to allow the user to play the games. When `start.` is typed, it clears the terminal and displays a memu. The user can then chose to play against a human or against the AI.
+The rest facts and rules are used to implement the IO functionalities. The program uses the terminal to allow the user to play the games. When `start.` is typed, it clears the terminal and displays a menu. The user can then chose to play against a human or against the AI.
 
 ## References
 [Minimax](https://en.wikipedia.org/wiki/Minimax) 
